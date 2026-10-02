@@ -53,3 +53,8 @@ sehingga tema tetap digunakan ketika halaman dibuka kembali.
 2. Ubah tema menggunakan tombol tema.
 3. Muat ulang halaman.
 4. Pastikan tema yang dipilih tetap digunakan.
+## Hasil Pengujian
+
+Berdasarkan pengujian yang dilakukan, fitur utama aplikasi berjalan sesuai fungsinya. Produk dapat ditambahkan ke keranjang, jumlah dan total belanja dapat dihitung, produk dapat dihapus, dan keranjang dapat dikosongkan.
+
+Pilihan tema terang atau gelap juga tetap tersimpan setelah halaman dimuat ulang karena menggunakan Cookie.
